@@ -17,3 +17,19 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = /Users/pc/Desktop/MeetingApp
 build_property._RazorSourceGeneratorDebug = 
+
+[/Users/pc/Desktop/MeetingApp/Controllers/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbGxlcnMvVmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pc/Desktop/MeetingApp/Controllers/Views/Meeting/Apply.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbGxlcnMvVmlld3MvTWVldGluZy9BcHBseS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pc/Desktop/MeetingApp/Controllers/Views/Meeting/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbGxlcnMvVmlld3MvTWVldGluZy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pc/Desktop/MeetingApp/Controllers/Views/Meeting/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbGxlcnMvVmlld3MvTWVldGluZy9MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

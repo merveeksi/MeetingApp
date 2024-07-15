@@ -11,7 +11,17 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Pages\" />
+    <_ContentIncludedByDefault Remove="Controllers\Views\Home\Index.cshtml" />
+    <_ContentIncludedByDefault Remove="Controllers\Views\Meeting\Apply.cshtml" />
+    <_ContentIncludedByDefault Remove="Controllers\Views\Meeting\Index.cshtml" />
+    <_ContentIncludedByDefault Remove="Controllers\Views\Meeting\List.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <AdditionalFiles Include="Views\Home\Index.cshtml" />
+    <AdditionalFiles Include="Views\Meeting\Apply.cshtml" />
+    <AdditionalFiles Include="Views\Meeting\Index.cshtml" />
+    <AdditionalFiles Include="Views\Meeting\List.cshtml" />
   </ItemGroup>
 
 </Project>

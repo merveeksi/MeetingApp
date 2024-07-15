@@ -23,3 +23,4 @@
 /Users/pc/Desktop/MeetingApp/obj/Debug/net7.0/MeetingApp.pdb
 /Users/pc/Desktop/MeetingApp/obj/Debug/net7.0/MeetingApp.genruntimeconfig.cache
 /Users/pc/Desktop/MeetingApp/obj/Debug/net7.0/ref/MeetingApp.dll
+/Users/pc/Desktop/MeetingApp/obj/Debug/net7.0/MeetingApp.sourcelink.json

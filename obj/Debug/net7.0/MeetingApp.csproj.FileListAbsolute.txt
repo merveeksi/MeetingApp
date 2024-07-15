@@ -219,3 +219,5 @@
 /Users/pc/Desktop/MeetingApp/obj/Debug/net7.0/MeetingApp.RazorAssemblyInfo.cache
 /Users/pc/Desktop/MeetingApp/obj/Debug/net7.0/MeetingApp.RazorAssemblyInfo.cs
 /Users/pc/Desktop/MeetingApp/obj/Debug/net7.0/MeetingApp.csproj.Up2Date
+/Users/pc/Desktop/MeetingApp/bin/Debug/net7.0/libman.json
+/Users/pc/Desktop/MeetingApp/bin/Debug/net7.0/MeetingApp.staticwebassets.runtime.json

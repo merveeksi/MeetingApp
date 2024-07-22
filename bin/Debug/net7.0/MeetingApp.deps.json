@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v7.0": {
       "MeetingApp/1.0.0": {
         "dependencies": {
+          "Microsoft.DotNet.Scaffolding.Shared": "7.0.12",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "7.0.12"
         },
         "runtime": {

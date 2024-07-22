@@ -9655,6 +9655,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Microsoft.DotNet.Scaffolding.Shared >= 7.0.12",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 7.0.12"
     ]
   },
@@ -9677,7 +9678,6 @@
         "net7.0"
       ],
       "sources": {
-        "/Users/pc/.dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -9690,12 +9690,21 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
       "net7.0": {
         "targetAlias": "net7.0",
         "dependencies": {
+          "Microsoft.DotNet.Scaffolding.Shared": {
+            "target": "Package",
+            "version": "[7.0.12, )"
+          },
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[7.0.12, )"
@@ -9734,7 +9743,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/pc/.dotnet/sdk/8.0.303/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/RuntimeIdentifierGraph.json"
       }
     }
   }

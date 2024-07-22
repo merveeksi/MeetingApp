@@ -1,3 +1,4 @@
+using MeetingApp.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace MeetingApp.Controllers;
@@ -15,7 +16,7 @@ public class MeetingController : Controller
         return View();
         
     }  [HttpPost]
-    public IActionResult Apply(string Name, string Phone, string Email, bool WillAttend)
+    public IActionResult Apply(UserInfo model)
     {
         return View();
     }  

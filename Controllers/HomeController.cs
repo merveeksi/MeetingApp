@@ -18,7 +18,7 @@ namespace MeetingApp.Controllers
                 Id = 1,
                 Location = "İstanbul, Sultangazi",
                 Date = new DateTime(2024, 07, 21, 20, 0, 0),
-                NumberOfPeople = 100
+                NumberOfPeople = UserCount
             };
             return View(meetingInfo);
         }
